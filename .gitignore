@@ -1,0 +1,30 @@
+# Base de datos (archivo generado en tiempo de ejecucion)
+Pipeline/juriscoop.db
+
+# Archivos de prueba y datos Excel generados
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+
+# Logs del monitor
+Prototipo Cartera/Monitor_GOTI_log.txt
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Configuracion interna del editor
+.claude/
+
+# Archivos de video y documentacion interna
+*.mp4
+*.pdf
+
+# Archivos de trabajo temporales
+*- copia.*
+* - Copy.*
+
+# Carpetas de versiones antiguas de Power BI
+Reportes mensuales/PowerBI - Manejo de creditos/
